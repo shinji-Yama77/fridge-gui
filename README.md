@@ -17,3 +17,7 @@ Goal: fridge gui application that tracks your inventory
 
 
 
+# Future steps:
+
+1. Implement opencv to automatically track item and update inventory
+
